@@ -1,15 +1,15 @@
-# Hello guys! It is Vafo here!✌️
+### Hello guys! It is Vafo here!✌️
 
-# Some info about myself📃.
+## Some info about myself📃.
 
 I am a student at NRNU MEPhI in Moscow, Russia.🤓
 Nowadays along with my studies I am learning deeply Java programming language for backend development and looking for company that gives me a chance to gain experience in this field👨‍💻.
 
-# Growing Fields📈
+## Growing Fields📈
 
 I focused on Web development(mostly on backend) and Cyber Security(as my speciality at university).
 
-# As for my skills.😉 
+## As for my skills.😉 
 
 ### I know many programming languages like Java(main), C/C++, Python(secondary), JavaScript.
 
@@ -40,7 +40,7 @@ I focused on Web development(mostly on backend) and Cyber Security(as my special
 <img src="https://user-images.githubusercontent.com/75538894/208184779-18bcaeab-7441-4ccd-9790-39c145e09b6d.png" width="64" height="64" />
 <img src="https://user-images.githubusercontent.com/75538894/208183942-a1209a7a-1fd9-47ed-b320-cf9cd1df4329.png" width="64" height="64" />
 
-# Conclusion
+## Conclusion
 
 And this is all about me. If you want to contact with me
 
