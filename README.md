@@ -1,6 +1,6 @@
 ### Hello guys! It is Vafo here!✌️
 
-## Some info about myself📃.
+## Some info about me📃.
 
 I am a student at NRNU MEPhI in Moscow, Russia.🤓
 Nowadays along with my studies I am learning deeply Java programming language for backend development and looking for company that gives me a chance to gain experience in this field👨‍💻.
