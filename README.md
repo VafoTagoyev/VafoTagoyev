@@ -1,4 +1,5 @@
-### Hello guys! It is Vafo here!✌️
+<h1 align="center">Hello guys 👋, It is Vafo here!✌️</h1>
+<h2 align="center">A passionate Java backend developer</h2>
 
 ## Some info about me📃
 
