@@ -30,6 +30,7 @@ I focused on Web development(mostly on backend) and Cyber Security(as my special
 <img src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png" width="64" height="64" />
 <img src="https://user-images.githubusercontent.com/25181517/183894676-137319b5-1364-4b6a-ba4f-e9fc94ddc4aa.png" width="64" height="64" />
 <img src="https://user-images.githubusercontent.com/75538894/208183758-b7771a27-b49d-4781-af2d-c831ca867ad2.png" width="64" height="64" />
+<img src="https://avatars.githubusercontent.com/u/1492367?s=200&v=4" width="64" height="64" />
 
 ### I work with MySQL, PostgreSQL databases.
 
