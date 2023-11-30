@@ -3,8 +3,7 @@
 
 ## Some info about me📃
 
-I am a student at NRNU MEPhI in Moscow, Russia.🤓
-Nowadays along with my studies I am learning deeply Java programming language for backend development and looking for company that gives me a chance to gain experience in this field👨🏻‍💻.
+Outstanding Web Developer and talented Software Engineer. My objective as a Web Developer is to apply my technical skills in IT craftsmanship and IT implementation, and to utilize my knowledge in web configuration and troubleshooting to fulfill the company’s vision and mission. I aim to bring success to the company by designing specific IT solutions that will address technical issues. I am a team player, open to adapt changes and a great problem solver. With this said, I can assure that I can be a useful talent for the company.
 
 ## Growing Fields📈
 
@@ -32,9 +31,9 @@ I focused on Web development(mostly on backend) and Cyber Security(as my special
 <img src="https://user-images.githubusercontent.com/75538894/208183758-b7771a27-b49d-4781-af2d-c831ca867ad2.png" width="64" height="64" />
 <img src="https://avatars.githubusercontent.com/u/1492367?s=200&v=4" width="64" height="64" />
 
-### I work with MySQL, PostgreSQL databases.
+### I work with PostgreSQL, MySQL databases.
 
-<img src = "https://user-images.githubusercontent.com/75538894/208183390-cf53ec33-f0a5-420d-bce5-8b0bf9bc1a6b.png" width="64" height="64" /> <img src = "https://user-images.githubusercontent.com/75538894/208183100-f8f7ee4d-89a5-4979-a918-1e82fa69c8af.png" width="64" height="64" />
+<img src = "https://user-images.githubusercontent.com/75538894/208183100-f8f7ee4d-89a5-4979-a918-1e82fa69c8af.png" width="64" height="64" /> <img src = "https://user-images.githubusercontent.com/75538894/208183390-cf53ec33-f0a5-420d-bce5-8b0bf9bc1a6b.png" width="64" height="64" />
 
 ### At the same time I'm good with Linux, Docker, APIs, DSA, Math, OOP, Git.
 
